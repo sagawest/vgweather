@@ -1,0 +1,19 @@
+{
+  "name": "vgweather",
+  "version": "1.0.0",
+  "description": "vg projekt väder app ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "vg test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagawest/vgweather.git"
+  },
+  "author": "saga west",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagawest/vgweather/issues"
+  },
+  "homepage": "https://github.com/sagawest/vgweather#readme"
+}
